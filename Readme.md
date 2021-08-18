@@ -1,4 +1,4 @@
 # IGG-GO-SOFT-DELETE
 
 ## Requirement
-- ทำตัวกลาง Soft delete กับ Qmgo
+- ทำตัวกลาง Soft delete ใช้กับ mongodb/mongo-go-drive
